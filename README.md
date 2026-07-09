@@ -1,4 +1,4 @@
-# ¡Hola 👋, soy Luis Loor!
+<h1 align="center">¡Hola, soy Luis Loor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Soy Ingeniero / Analista de Datos en la industria de la Banca en Honduras y la Región. Especializado en el desarrollo de soluciones en la nube con herramientas como Azure Databricks, así como en la creación de dashboards e informes con Power BI, Report Builder y SQL. Me destaco por mi capacidad analítica, pensamiento crítico y orientación a resultados, aplicando buenas prácticas en el manejo, transformación y visualización de datos. He coordinado equipos y proyectos enfocados en mejorar la toma de decisiones estratégicas a través de información confiable y visualmente efectiva. Comprometido con la mejora continua y el aprendizaje constante de nuevas tecnologías.
 
