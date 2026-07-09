@@ -1,26 +1,26 @@
 <h1 align="center">¡Hola, soy Luis Loor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy Ingeniero / Analista de Datos en la industria de la Banca en Honduras y la Región. Especializado en el desarrollo de soluciones en la nube con herramientas como Azure Databricks, así como en la creación de dashboards e informes con Power BI, Report Builder y SQL. Me destaco por mi capacidad analítica, pensamiento crítico y orientación a resultados, aplicando buenas prácticas en el manejo, transformación y visualización de datos. He coordinado equipos y proyectos enfocados en mejorar la toma de decisiones estratégicas a través de información confiable y visualmente efectiva. Comprometido con la mejora continua y el aprendizaje constante de nuevas tecnologías.
+I am a Data Engineer/Analyst in the banking industry in Honduras and the region. I specialize in developing cloud solutions using tools like Azure Databricks, as well as creating dashboards and reports with Power BI, Report Builder, and SQL. I excel in analytical skills, critical thinking, and results-oriented approach, applying best practices in data management, transformation, and visualization. I have coordinated teams and projects focused on improving strategic decision-making through reliable and visually effective information. I am committed to continuous improvement and ongoing learning of new technologies.
 
 ### 🔭 Actualmente trabajo en:
-En proyectos de migración de datos a la nube, utilizando la arquitectura medallion por medio de ADF y Databricks.
+In cloud data migration projects, using the medallion architecture through ADF and Databricks.
 
 ### 🌱 Actualmente estoy aprendiendo:  
-- Culminando mi maestraía en TI  
-- Microsoft Azure Databricks Certificate y Databricks - Data Engineer Professional
-- Microsoft Analytics Engineer cursando una especialización
+- Completing my Master's degree in IT
+- Microsoft Azure Databricks Certificate and Databricks - Data Engineer Professional
+- Microsoft Analytics Engineer (currently pursuing a specialization)
 
 ### 🤝 Busco colaborar en:  
-Áreas para integración en equipo de ingeniería o analista de Datos.
+Areas for integration into an engineering team or data analyst.
 
 ### 🧠 Busco ayuda para:  
-Mejores prácticas en desarrollo de laboratorios o retos.
+Best practices in laboratory development or challenges.
 
 ### 📫 Cómo contactarme:  
 myloor@tuta.io
 
 ### ⚡ Dato curioso:  
-Practico el deporte baloncesto, futbol y me gusta la musica.
+I play basketball and soccer, and I like music.
 
 ---
 
